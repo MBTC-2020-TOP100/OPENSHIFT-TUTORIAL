@@ -64,7 +64,7 @@ Mantenga abierta la consola web de ROKS y continúe con la Etapa 2 del tutorial.
 
 Si tiene la herramienta *git* instalada en su máquina, abra una terminal y ejecute el siguiente comando:
 
-```git clone https://github.com/vnderlev/d9-openshift-setup-tutorial.git```
+```git clone https://github.com/MBTC-2020-TOP100/OPENSHIFT-TUTORIAL.git```
 
 
 Si no tiene la herramienta *git* instalada, vaya a la página del repositorio en GitHub en: https://github.com/vnderlev/d9-openshift-setup-tutorial y haga clic en el botón verde "Code" y luego haga clic en "Download ZIP", como se muestra en la imagen de abajo.
