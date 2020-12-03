@@ -161,7 +161,7 @@ Em seguida clique em "**Show advanced Git Options**", conforme indicado, e depoi
 Luego haga clic en "**Show advanced Git Options**", como se indica, y luego haga clic en el menú desplegable "**Select Secret Name**". Finalmente, haga clic en "**Create New Secret**", como se muestra a continuación:
 
 <div align="center" width="90%" style="border: 1px solid black;">
-  <img src="../docs/images/17.png">
+  <img src="../docs/images/17X.png">
 </div><br>
 
 Se abrirá el formulario para crear un **Secret** en OpenShift, y deberá completar un nombre para el Secret (caracteres alfanuméricos y guion), manteniendo seleccionada la opción "**Basic Authentication**" en la sección Authentication Type; **completa el correo electrónico de su cuenta de GitHub en el campo "Nombre de usuario"**; Pegue en el campo "**Password or Token**" su Personal Access Token generado previamente en GitHub; y finalmente haga clic en el botón "Create", como se muestra en la siguiente imagen:
