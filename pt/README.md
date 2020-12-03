@@ -62,7 +62,7 @@ Caso você tenha a ferramenta *git* instalada na sua máquina, abra um terminal 
 
 ```git clone https://github.com/MBTC-2020-TOP100/OPENSHIFT-TUTORIAL.git```
 
-Caso você não tenha a ferramenta *git* instalada, acesse a página do repositório no GitHub em: https://github.com/vnderlev/d9-openshift-setup-tutorial e clique no botão "Code" de cor verde e em seguida clique em "Download ZIP", conforme indicado na imagem abaixo.
+Caso você não tenha a ferramenta *git* instalada, acesse a página do repositório no GitHub em: https://github.com/MBTC-2020-TOP100/OPENSHIFT-TUTORIAL e clique no botão "Code" de cor verde e em seguida clique em "Download ZIP", conforme indicado na imagem abaixo.
 
 <div align="center" width="90%" style="border: 1px solid black;">
   <img src="../docs/images/5.png">
