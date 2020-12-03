@@ -154,7 +154,7 @@ Será aberto o formulário de configuração do seu deployment. No primeiro camp
 Em seguida clique em "**Show advanced Git Options**", conforme indicado, e depois clique no menu dropdown "**Select Secret Name**". Finalmente, clique em "**Create New Secret**", conforme indicado abaixo:
 
 <div align="center" width="90%" style="border: 1px solid black;">
-  <img src="../docs/images/17.png">
+  <img src="../docs/images/17X.png">
 </div><br>
 
 O formulário para a criação de um **Secret** no OpenShift abrirá, e você deverá preencher um nome para o Secret (caracteres alfanuméricos e hífen), manter selecionada a opção "**Basic Authentication**" na seção Authentication Type; **preencher o e-mail da sua conta no GitHub no campo "Username"**; Colar no campo "**Password or Token**" o seu Personal Access Token gerado anteriormente no GitHub; e finalmente clicar no botão "Create", conforme indicado na figura abaixo:
