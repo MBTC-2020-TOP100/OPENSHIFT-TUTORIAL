@@ -70,7 +70,7 @@ Si tiene la herramienta *git* instalada en su máquina, abra una terminal y ejec
 Si no tiene la herramienta *git* instalada, vaya a la página del repositorio en GitHub en: https://github.com/MBTC-2020-TOP100/OPENSHIFT-TUTORIAL y haga clic en el botón verde "Code" y luego haga clic en "Download ZIP", como se muestra en la imagen de abajo.
 
 <div align="center" width="90%" style="border: 1px solid black;">
-  <img src="../docs/images/5.png">
+  <img src="../docs/images/5X.png">
 </div><br>
 
 Después de clonar el repositorio, tendrá en su máquina algunos archivos importantes, que son:
